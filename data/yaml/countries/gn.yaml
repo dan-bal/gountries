@@ -13,6 +13,9 @@ tlds:
 languages:
   fra: French
 translations:
+  DEU:
+    common: Guinea
+    official: Republik Guinea
   FIN:
     common: Guinea
     official: Guinean tasavalta

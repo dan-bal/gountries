@@ -13,6 +13,9 @@ tlds:
 languages:
   srp: Montenegrin
 translations:
+  DEU:
+    common: Montenegro
+    official: Montenegro
   ITA:
     common: Montenegro
     official: Montenegro

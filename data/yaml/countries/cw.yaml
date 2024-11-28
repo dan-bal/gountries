@@ -21,6 +21,9 @@ languages:
   nld: Dutch
   pap: Papiamento
 translations:
+  DEU:
+    common: Curaçao
+    official: Curaçao
   FIN:
     common: Curaçao
     official: Curaçao

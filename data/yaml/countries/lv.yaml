@@ -13,6 +13,9 @@ tlds:
 languages:
   lav: Latvian
 translations:
+  DEU:
+    common: Lettland
+    official: Republik Lettland
   FRA:
     common: Lettonie
     official: République de Lettonie

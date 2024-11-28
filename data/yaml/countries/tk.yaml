@@ -21,6 +21,9 @@ languages:
   smo: Samoan
   tkl: Tokelauan
 translations:
+  DEU:
+    common: Tokelau
+    official: Tokelau
   FIN:
     common: Tokelau
     official: Tokelau

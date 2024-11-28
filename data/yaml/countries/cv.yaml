@@ -13,6 +13,9 @@ tlds:
 languages:
   por: Portuguese
 translations:
+  DEU:
+    common: Kap Verde
+    official: Republik Kap Verde
   FIN:
     common: Kap Verde
     official: Kap Verden tasavalta

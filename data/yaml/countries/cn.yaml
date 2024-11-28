@@ -17,6 +17,9 @@ tlds:
 languages:
   cmn: Mandarin
 translations:
+  DEU:
+    common: China
+    official: Volksrepublik China
   FRA:
     common: Chine
     official: République populaire de Chine

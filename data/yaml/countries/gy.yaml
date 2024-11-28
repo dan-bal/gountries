@@ -13,6 +13,9 @@ tlds:
 languages:
   eng: English
 translations:
+  DEU:
+    common: Guyana
+    official: Kooperative Republik Guyana
   FIN:
     common: Guayana
     official: Guayanan osuustoiminnallinen tasavalta

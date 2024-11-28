@@ -13,6 +13,9 @@ tlds:
 languages:
   eng: English
 translations:
+  DEU:
+    common: Bahamas
+    official: Commonwealth der Bahamas
   CYM:
     common: Bahamas
     official: Commonwealth of the Bahamas

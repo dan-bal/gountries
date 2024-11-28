@@ -13,6 +13,9 @@ tlds:
 languages:
   fra: French
 translations:
+  DEU:
+    common: Togo
+    official: Republik Togo
   FRA:
     common: Togo
     official: République togolaise

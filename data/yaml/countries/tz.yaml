@@ -17,6 +17,9 @@ languages:
   eng: English
   swa: Swahili
 translations:
+  DEU:
+    common: Tansania
+    official: Vereinigte Republik Tansania
   FRA:
     common: Tanzanie
     official: République -Unie de Tanzanie

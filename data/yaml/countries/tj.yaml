@@ -17,6 +17,9 @@ languages:
   rus: Russian
   tgk: Tajik
 translations:
+  DEU:
+    common: Tadschikistan
+    official: Republik Tadschikistan
   FIN:
     common: Tadžikistan
     official: Tadžikistanin tasavalta

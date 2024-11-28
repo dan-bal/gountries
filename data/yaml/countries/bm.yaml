@@ -13,6 +13,9 @@ tlds:
 languages:
   eng: English
 translations:
+  DEU:
+    common: Bermuda
+    official: Bermuda
   FRA:
     common: Bermudes
     official: Bermudes

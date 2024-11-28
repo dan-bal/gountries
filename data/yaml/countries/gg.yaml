@@ -21,6 +21,9 @@ languages:
   fra: French
   nfr: Guernésiais
 translations:
+  DEU:
+    common: Guinea-Bissau
+    official: Republik Guinea-Bissau
   FRA:
     common: Guernesey
     official: Bailliage de Guernesey

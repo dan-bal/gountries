@@ -17,6 +17,9 @@ languages:
   eng: English
   msa: Malay
 translations:
+  DEU:
+    common: Malaysia
+    official: Malaysia
   FRA:
     common: Malaisie
     official: Fédération de Malaisie

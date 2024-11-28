@@ -21,6 +21,9 @@ languages:
   pus: Pashto
   tuk: Turkmen
 translations:
+  DEU:
+    common: Afghanistan
+    official: Islamische Republik Afghanistan
   CYM:
     common: Affganistan
     official: Islamic Republic of Afghanistan

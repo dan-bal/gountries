@@ -13,6 +13,9 @@ tlds:
 languages:
   fra: French
 translations:
+  DEU:
+    common: Benin
+    official: Republik Benin
   CYM:
     common: Benin
     official: Republic of Benin

@@ -13,6 +13,9 @@ tlds:
 languages:
   fra: French
 translations:
+  DEU:
+    common: Niger
+    official: Republik Niger
   FIN:
     common: Niger
     official: Nigerin tasavalta

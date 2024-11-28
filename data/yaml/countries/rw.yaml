@@ -21,6 +21,9 @@ languages:
   fra: French
   kin: Kinyarwanda
 translations:
+  DEU:
+    common: Ruanda
+    official: Republik Ruanda
   FIN:
     common: Ruanda
     official: Ruandan tasavalta

@@ -21,6 +21,9 @@ languages:
   que: Quechua
   spa: Spanish
 translations:
+  DEU:
+    common: Peru
+    official: Republik Peru
   FRA:
     common: Pérou
     official: République du Pérou

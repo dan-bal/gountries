@@ -13,6 +13,9 @@ tlds:
 languages:
   eng: English
 translations:
+  DEU:
+    common: Montserrat
+    official: Montserrat
   FIN:
     common: Montserrat
     official: Montserrat

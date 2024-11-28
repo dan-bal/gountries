@@ -18,6 +18,9 @@ languages:
   rus: Russian
   ukr: Ukrainian
 translations:
+  DEU:
+    common: Ukraine
+    official: Ukraine
   NLD:
     common: Oekraïne
     official: Oekraïne

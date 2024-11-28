@@ -17,6 +17,9 @@ languages:
   fra: French
   run: Kirundi
 translations:
+  DEU:
+    common: Burundi
+    official: Republik Burundi
   CYM:
     common: Bwrwndi
     official: Republic of Burundi

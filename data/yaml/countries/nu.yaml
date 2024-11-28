@@ -17,6 +17,9 @@ languages:
   eng: English
   niu: Niuean
 translations:
+  DEU:
+    common: Niue
+    official: Niue
   FIN:
     common: Niue
     official: Niue

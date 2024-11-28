@@ -13,6 +13,9 @@ tlds:
 languages:
   kat: Georgian
 translations:
+  DEU:
+    common: Georgien
+    official: Georgien
   FIN:
     common: Georgia
     official: Georgia

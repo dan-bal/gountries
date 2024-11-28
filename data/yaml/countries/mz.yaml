@@ -13,6 +13,9 @@ tlds:
 languages:
   por: Portuguese
 translations:
+  DEU:
+    common: Portugal
+    official: Republik Portugal
   FIN:
     common: Mosambik
     official: Mosambikin tasavalta

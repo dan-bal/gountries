@@ -13,6 +13,9 @@ tlds:
 languages:
   ara: Arabic
 translations:
+  DEU:
+    common: Bahrain
+    official: Königreich Bahrain
   CYM:
     common: Bahrain
     official: Kingdom of Bahrain

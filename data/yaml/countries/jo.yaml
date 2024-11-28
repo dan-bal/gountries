@@ -14,6 +14,9 @@ tlds:
 languages:
   ara: Arabic
 translations:
+  DEU:
+    common: Jordanien
+    official: Haschemitisches Königreich Jordanien
   FIN:
     common: Jordania
     official: Jordanian hašemiittinen kunigaskunta

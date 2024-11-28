@@ -13,6 +13,9 @@ tlds:
 languages:
   spa: Spanish
 translations:
+  DEU:
+    common: Panama
+    official: Republik Panama
   ITA:
     common: Panama
     official: Repubblica di Panama

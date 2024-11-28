@@ -17,6 +17,9 @@ languages:
   ara: Arabic
   som: Somali
 translations:
+  DEU:
+    common: Somalia
+    official: Bundesrepublik Somalia
   FIN:
     common: Somalia
     official: Somalian liittotasavalta

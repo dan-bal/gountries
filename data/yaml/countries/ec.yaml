@@ -13,6 +13,9 @@ tlds:
 languages:
   spa: Spanish
 translations:
+  DEU:
+    common: Ecuador
+    official: Republik Ecuador
   CYM:
     common: Ecwador
     official: Republic of Ecuador

@@ -13,6 +13,9 @@ tlds:
 languages:
   fra: French
 translations:
+  DEU:
+    common: Mali
+    official: Republik Mali
   FIN:
     common: Mali
     official: Malin tasavalta

@@ -27,6 +27,9 @@ languages:
   msa: Malay
   tam: Tamil
 translations:
+  DEU:
+    common: Singapur
+    official: Republik Singapur
   FIN:
     common: Singapore
     official: Singaporen tasavalta

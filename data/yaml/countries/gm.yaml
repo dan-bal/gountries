@@ -13,6 +13,9 @@ tlds:
 languages:
   eng: English
 translations:
+  DEU:
+    common: Gambia
+    official: Republik Gambia
   HRV:
     common: Gambija
     official: Republika Gambija

@@ -13,6 +13,9 @@ tlds:
 languages:
   mon: Mongolian
 translations:
+  DEU:
+    common: Mongolei
+    official: Mongolei
   FIN:
     common: Mongolia
     official: Mongolian tasavalta

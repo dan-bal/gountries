@@ -13,6 +13,9 @@ tlds:
 languages:
   spa: Spanish
 translations:
+  DEU:
+    common: Costa Rica
+    official: Republik Costa Rica
   CYM:
     common: Costa Rica
     official: Republic of Costa Rica

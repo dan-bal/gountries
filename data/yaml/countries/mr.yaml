@@ -13,6 +13,9 @@ tlds:
 languages:
   ara: Arabic
 translations:
+  DEU:
+    common: Mauretanien
+    official: Islamische Republik Mauretanien
   FIN:
     common: Mauritania
     official: Mauritanian islamilainen tasavalta

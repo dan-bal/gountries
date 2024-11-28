@@ -13,6 +13,9 @@ tlds:
 languages:
   eng: English
 translations:
+  DEU:
+    common: Liberia
+    official: Republik Liberia
   FIN:
     common: Liberia
     official: Liberian tasavalta

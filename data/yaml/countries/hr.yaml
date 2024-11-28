@@ -13,6 +13,9 @@ tlds:
 languages:
   hrv: Croatian
 translations:
+  DEU:
+    common: Kroatien
+    official: Republik Kroatien
   CYM:
     common: Croatia
     official: Republic of Croatia

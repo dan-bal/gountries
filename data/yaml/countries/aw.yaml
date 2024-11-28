@@ -17,6 +17,9 @@ languages:
   nld: Dutch
   pap: Papiamento
 translations:
+  DEU:
+    common: Aruba
+    official: Aruba
   FIN:
     common: Aruba
     official: Aruba

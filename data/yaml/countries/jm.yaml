@@ -17,6 +17,9 @@ languages:
   eng: English
   jam: Jamaican Patois
 translations:
+  DEU:
+    common: Jamaika
+    official: Jamaika
   FIN:
     common: Jamaika
     official: Jamaika

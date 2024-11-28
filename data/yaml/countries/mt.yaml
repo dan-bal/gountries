@@ -17,6 +17,9 @@ languages:
   eng: English
   mlt: Maltese
 translations:
+  DEU:
+    common: Malta
+    official: Republik Malte
   FIN:
     common: Malta
     official: Maltan tasavalta

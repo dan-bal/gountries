@@ -13,6 +13,9 @@ tlds:
 languages:
   spa: Spanish
 translations:
+  DEU:
+    common: Uruguay
+    official: Republik Östlich des Uruguay
   FIN:
     common: Uruguay
     official: Uruguayn itäinen tasavalta

@@ -13,6 +13,9 @@ tlds:
 languages:
   nld: Dutch
 translations:
+  DEU:
+    common: Suriname
+    official: Republik Suriname
   FIN:
     common: Suriname
     official: Surinamen tasavalta

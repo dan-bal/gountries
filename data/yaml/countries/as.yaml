@@ -17,6 +17,9 @@ languages:
   eng: English
   smo: Samoan
 translations:
+  DEU:
+    common: Samoa
+    official: Unabhängiger Staat Samoa
   FIN:
     common: Amerikan Samoa
     official: Amerikan Samoa

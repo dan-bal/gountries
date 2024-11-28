@@ -17,6 +17,9 @@ languages:
   fra: French
   mlg: Malagasy
 translations:
+  DEU:
+    common: Madagaskar
+    official: Republik Madagaskar
   FIN:
     common: Madagaskar
     official: Madagaskarin tasavalta

@@ -17,6 +17,9 @@ languages:
   ara: Arabic
   eng: English
 translations:
+  DEU:
+    common: Sudan
+    official: Republik Sudan
   FIN:
     common: Sudan
     official: Sudanin tasavalta

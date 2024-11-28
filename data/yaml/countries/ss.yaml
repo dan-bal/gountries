@@ -13,6 +13,9 @@ tlds:
 languages:
   eng: English
 translations:
+  DEU:
+    common: Südsudan
+    official: Republik Südsudan
   FIN:
     common: Etelä-Sudan
     official: Etelä-Sudanin tasavalta

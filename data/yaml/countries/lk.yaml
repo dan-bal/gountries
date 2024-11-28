@@ -19,6 +19,9 @@ languages:
   sin: Sinhala
   tam: Tamil
 translations:
+  DEU:
+    common: Sri Lanka
+    official: Demokratische Sozialistische Republik Sri Lanka
   HRV:
     common: Šri Lanka
     official: Demokratska Socijalističke Republike Šri Lanke

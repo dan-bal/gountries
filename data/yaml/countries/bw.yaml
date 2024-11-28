@@ -17,6 +17,9 @@ languages:
   eng: English
   tsn: Tswana
 translations:
+  DEU:
+    common: Botsuana
+    official: Republik Botsuana
   FIN:
     common: Botswana
     official: Botswanan tasavalta

@@ -13,6 +13,9 @@ tlds:
 languages:
   khm: Khmer
 translations:
+  DEU:
+    common: Kambodscha
+    official: Königreich Kambodscha
   CYM:
     common: Cambodia
     official: Kingdom of Cambodia

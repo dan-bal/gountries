@@ -17,6 +17,9 @@ languages:
   ara: Arabic
   fra: French
 translations:
+  DEU:
+    common: Libanon
+    official: Libanesische Republik
   FIN:
     common: Libanon
     official: Libanonin tasavalta

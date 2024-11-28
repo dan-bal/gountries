@@ -17,6 +17,9 @@ languages:
   eng: English
   pau: Palauan
 translations:
+  DEU:
+    common: Palau
+    official: Republik Palau
   FIN:
     common: Palau
     official: Palaun tasavalta

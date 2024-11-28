@@ -13,6 +13,9 @@ tlds:
 languages:
   spa: Spanish
 translations:
+  DEU:
+    common: Nicaragua
+    official: Republik Nicaragua
   FIN:
     common: Nicaragua
     official: Nicaraguan tasavalta

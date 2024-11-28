@@ -13,6 +13,9 @@ tlds:
 languages:
   amh: Amharic
 translations:
+  DEU:
+    common: Äthiopien
+    official: Demokratische Bundesrepublik Äthiopien
   CYM:
     common: Ethiopia
     official: Federal Democratic Republic of Ethiopia

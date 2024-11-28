@@ -1,4 +1,4 @@
-module github.com/pariz/gountries
+module github.com/dan-bal/gountries
 
 go 1.17
 
